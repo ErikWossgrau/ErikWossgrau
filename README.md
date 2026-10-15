@@ -2,6 +2,7 @@
 
 💻 Estudante de Técnico em Informática no IFC  
 📍 Brusque - SC
+
 🎯 Em busca da minha primeira oportunidade na área de TI  
 
 
