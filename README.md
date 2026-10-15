@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Erik!
 
-<!--
-**ErikWossgrau/ErikWossgrau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Técnico em Informática no IFC  
+📍 Brusque - SC
+🎯 Em busca da minha primeira oportunidade na área de TI  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mim
+
+- 🎓 Concluindo o Ensino Médio Técnico em Informática no IFC.
+- 💡 Interessado em desenvolvimento de software, programação e banco de dados.
+- 🚀 Busco aprimorar meus conhecimentos, desenvolver projetos práticos e crescer profissionalmente na área de tecnologia.
+
+## 🛠️ Tecnologias e conhecimentos
+
+### 💻 Linguagens de programação
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,python" alt="C# e Python" />
+</p>
+
+### 🌐 Desenvolvimento Web
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML e CSS" />
+</p>
+
+### 🗄️ Banco de dados
+- SQL e fundamentos de banco de dados.
+
+### 🌐 Outras áreas
+- Redes de computadores.
+- Internet das Coisas (IoT)
+
+## 📂 Projetos
+
+Estou organizando meus estudos e repositórios para compartilhar projetos e atividades desenvolvidos durante minha formação.
+
+## 🌐 Contato
+
+- 💼 LinkedIn: [Meu perfil no LinkedIn](https://www.linkedin.com/in/erik-wossgrau-dev/))
