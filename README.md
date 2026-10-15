@@ -14,38 +14,14 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-
-### 💻 Linguagens & Desenvolvimento Web
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Minhas Tecnologias" />
-  </a>
-</p>
-
-### 🗄️ Banco de Dados & Infraestrutura
-- **SQL:** Fundamentos consolidados e modelagem relacional.
-- **Redes de Computadores:** Conectividade, protocolos e infraestrutura básica.
-- **Internet das Coisas (IoT):** Desenvolvimento de soluções integrando hardware e software.
-
----
 
 ## 📂 Projetos em Destaque
 
 *Atualmente organizando meus repositórios acadêmicos para compartilhar aqui. Em breve, sistemas em C# e automações em Python!*
 
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180" src="https://vercel.app" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://vercel.app" alt="Linguagens mais usadas" />
-</p>
 
 ---
 
 ## 🌐 Vamos nos conectar?
 
 - 💼 **LinkedIn:** [Erik Wossgrau no LinkedIn](https://www.linkedin.com/in/erik-wossgrau-dev/)
-- ✉️ **E-mail:** `seu.email@provedor.com` *(Dica: adicione seu e-mail de contato aqui)*
