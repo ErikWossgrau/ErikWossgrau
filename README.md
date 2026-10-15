@@ -1,40 +1,51 @@
-# 👋 Olá, eu sou o Erik!
+# 👋 Olá, eu sou o Erik Wossgrau!
 
-💻 Estudante de Técnico em Informática no IFC  
-📍 Brusque - SC
+💻 **Estudante de Técnico em Informática no IFC**  
+📍 Brusque - SC, Brasil  
+🎯 **Em busca da minha primeira oportunidade no mercado de TI**
 
-🎯 Em busca da minha primeira oportunidade na área de TI  
-
+---
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Concluindo o Ensino Médio Técnico em Informática no IFC.
-- 💡 Interessado em desenvolvimento de software, programação e banco de dados.
-- 🚀 Busco aprimorar meus conhecimentos, desenvolver projetos práticos e crescer profissionalmente na área de tecnologia.
+- 🎓 Concluindo o Ensino Médio Técnico em Informática no **Instituto Federal Catarinense - Campus Brusque**.
+- 💡 Apaixonado por lógica de programação, arquitetura de software e soluções baseadas em banco de dados.
+- 🚀 Busco colocar em prática o conhecimento teórico adquirido na instituição, desenvolvendo projetos reais e evoluindo ao lado de profissionais experientes.
 
-## 🛠️ Tecnologias e conhecimentos
+---
 
-### 💻 Linguagens de programação
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,python" alt="C# e Python" />
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Linguagens & Desenvolvimento Web
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="Minhas Tecnologias" />
+  </a>
 </p>
 
-### 🌐 Desenvolvimento Web
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML e CSS" />
+### 🗄️ Banco de Dados & Infraestrutura
+- **SQL:** Fundamentos consolidados e modelagem relacional.
+- **Redes de Computadores:** Conectividade, protocolos e infraestrutura básica.
+- **Internet das Coisas (IoT):** Desenvolvimento de soluções integrando hardware e software.
+
+---
+
+## 📂 Projetos em Destaque
+
+*Atualmente organizando meus repositórios acadêmicos para compartilhar aqui. Em breve, sistemas em C# e automações em Python!*
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180" src="https://vercel.app" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://vercel.app" alt="Linguagens mais usadas" />
 </p>
 
-### 🗄️ Banco de dados
-- SQL e fundamentos de banco de dados.
+---
 
-### 🌐 Outras áreas
-- Redes de computadores.
-- Internet das Coisas (IoT)
+## 🌐 Vamos nos conectar?
 
-## 📂 Projetos
-
-Estou organizando meus estudos e repositórios para compartilhar projetos e atividades desenvolvidos durante minha formação.
-
-## 🌐 Contato
-
-- 💼 LinkedIn: [Meu perfil no LinkedIn](https://www.linkedin.com/in/erik-wossgrau-dev/))
+- 💼 **LinkedIn:** [Erik Wossgrau no LinkedIn](https://www.linkedin.com/in/erik-wossgrau-dev/)
+- ✉️ **E-mail:** `seu.email@provedor.com` *(Dica: adicione seu e-mail de contato aqui)*
